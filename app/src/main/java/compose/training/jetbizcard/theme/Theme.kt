@@ -1,4 +1,4 @@
-package com.habit.jetbizcard.ui.theme
+package compose.training.com.habit.jetbizcard.ui.theme
 
 import android.app.Activity
 import android.os.Build
